@@ -1,6 +1,6 @@
-# Realm Draw Demo
+# Scribble 
 
-Realm Draw is a simple drawing app designed to show off the collaborative features of the [Realm Mobile Platform](https://realm.io/news/introducing-realm-mobile-platform/).
+Scribble is a simple android app which connects devices with live video and scribble feature which makes the app really interactive. App is designed to show off the collaborative features of the [Realm Mobile Platform](https://realm.io/news/introducing-realm-mobile-platform/).
 
 Any number of users may draw on a single shared canvas in any given moment, with contributions from other devices appearing on the canvas in real-time.
 
